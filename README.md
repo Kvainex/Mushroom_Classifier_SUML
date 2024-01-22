@@ -68,4 +68,4 @@ Here is the result for the **ResNet50** model:
 
 ![ResNet50](https://github.com/Kvainex/Mushroom_Classifier_SUML/blob/main/Training_result.png)
 
-![Graphs](https://github.com/Kvainex/Mushroom_Classifier_SUML/blob/main/Training_result.png)
+![Graphs](https://github.com/Kvainex/Mushroom_Classifier_SUML/blob/main/Training_graphs.png)
